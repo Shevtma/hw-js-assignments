@@ -1,4 +1,4 @@
-## JavaScript Assignment Operators
+# JavaScript Assignment Operators
 Assignment operators assign values to JavaScript variables.
 
 |Operator|Example|Same As|
@@ -40,3 +40,15 @@ The `&= assignment operator` ANDs a variable.
 The `!= assignment operator` ORs a variable.
 
 The `**= operator` is a part of ECMAScript 2016. It does not work in Internet Explorer 11 or earlier.
+
+# Инкремент и декремент
+
+**Инкремент** - увеличение значения на 1
+Operator|Example|Same As|
+|--------|-------|-------|
+|++|x++|x = x + 1|
+
+**Декремент** - уменьшение значения на 1
+Operator|Example|Same As|
+|--------|-------|-------|
+|--|x--|x = x - 1|
