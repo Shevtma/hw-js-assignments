@@ -11,7 +11,6 @@ function decreaseBalance(x, y) {
 function divideBalanceByAccounts(x, y) {
   x /= y;
   return x;
-  console.log("x");
 }
 
 function getRestAfterDivision(x, y) {
